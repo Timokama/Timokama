@@ -1,4 +1,3 @@
-USE data;
 CREATE TABLE person (
     id INTEGER PRIMARY KEY,
     first_name TEXT,
