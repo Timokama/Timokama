@@ -10,7 +10,7 @@ Hi there 👋
 
 - 💬 Ask me about Programming, videogames, draw...
 
-- 📫 How to reach me: https://www.linkedin.com/in/timothy-kamau
+- 📫 How to reach me: https://www.linkedin.com/in/timothy-kamau-992876245/
 
 - ⚡ Fun fact: I created my first Udemy course at 15 years old about video games....
 
