@@ -8,11 +8,11 @@ Hi there 👋
 
 - 🤔 I’m looking for help with work...
 
-- 💬 Ask me about Programming, videogames, draw...
+- 💬 Ask me about Programming, video games, drawing...
 
 - 📫 How to reach me: https://www.linkedin.com/in/timothy-kamau-992876245/
 
-- ⚡ Fun fact: I created my first Udemy course at 15 years old about video games....
+- ⚡ Fun fact: I created my first Udemy course at 15 years old about video games.
 
 
 📖 Learning
