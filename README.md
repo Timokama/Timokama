@@ -14,6 +14,8 @@ Hi there 👋
 
 - 📱 +254 768394866
 
+- 📱 +254 790722419
+
 - ⚡ Fun fact: I created my first Udemy course at 15 years old about video games.
 
 
