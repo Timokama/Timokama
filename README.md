@@ -12,6 +12,8 @@ Hi there 👋
 
 - 📫 How to reach me: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
 
+- Email: timo.munyiri@gmail.com
+
 - 📱 +254 790722419
   
 - 📖 Learning
