@@ -10,13 +10,10 @@ Hi there 👋
 
 - 💬 Ask me about Programming, drawing, Linux...
 
-- 📫 How to reach me: https://www.linkedin.com/in/timothy-kamau-992876245/
-
-- 📱 +254 768394866
+- 📫 How to reach me: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
 
 - 📱 +254 790722419
+  
+- 📖 Learning
 
-- ⚡ Fun fact: I created my first Udemy course at 15 years old about video games.
-
-
-📖 Learning
+- 
