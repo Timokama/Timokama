@@ -2,13 +2,13 @@ Hi there 👋
 
 - 🔭 I’m currently working in Web and Mobile UI/UX
 
-- 🌱 High Level, AI and Backend Software developer ...
+- 🌱 High Level, AI, Backend Software developer, and Frontend Software Developer
 
-- 👯 I’m looking to collaborate on different projects(coding, translating)...
+- 👯 I’m looking to collaborate on different projects(Programing, translating, and coding )...
 
-- 🤔 I’m looking for help with work...
+- 🤔 I’m looking for help with work.
 
-- 💬 Ask me about Programming, drawing, Linux...
+- 💬 Ask me about Programming, drawing, Linux.
 
 - 📫 How to reach me: www.linkedin.com/in/timothy-munyiri-47a0b031a
 
