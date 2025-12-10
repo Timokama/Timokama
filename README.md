@@ -1,6 +1,6 @@
 Hi there 👋
 
-- 🔭 I’m currently working in Web and Mobile UI...
+- 🔭 I’m currently working in Web and Mobile UI/UX
 
 - 🌱 High Level, AI and Backend Software developer ...
 
@@ -10,12 +10,10 @@ Hi there 👋
 
 - 💬 Ask me about Programming, drawing, Linux...
 
-- 📫 How to reach me: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+- 📫 How to reach me: www.linkedin.com/in/timothy-munyiri-47a0b031a
 
 - Email: timo.munyiri@gmail.com
 
 - 📱 +254 790722419
   
 - 📖 Learning
-
-- 
